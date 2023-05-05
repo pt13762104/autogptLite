@@ -1,0 +1,8 @@
+[submodule "Auto-GPT"]
+	path = Auto-GPT
+	url = https://github.com/Significant-Gravitas/Auto-GPT/
+	branch = stable
+[submodule "content/Auto-GPT"]
+	path = content/Auto-GPT
+	url = https://github.com/Significant-Gravitas/Auto-GPT/
+	branch = stable
